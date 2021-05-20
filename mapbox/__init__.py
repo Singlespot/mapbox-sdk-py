@@ -10,6 +10,7 @@ from .services.matrix import DirectionsMatrix
 from .services.surface import Surface
 from .services.static import Static
 from .services.static_style import StaticStyle
+from .services.style import Style
 from .services.uploads import Uploader
 from .services.analytics import Analytics
 from .services.tilequery import Tilequery
